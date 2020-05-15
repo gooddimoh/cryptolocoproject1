@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="94cf2d48-e2e6-4fc9-b8ba-9e5c8bf19675" name="63.250.32.75" url="http://63.250.32.75">
+        <fileTransfer host="63.250.32.75" port="22" rootFolder="/home/lendbit/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
